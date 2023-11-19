@@ -14,14 +14,14 @@
 
 </pre>
 
-My name is Alireza soltanian
+Alireza soltanian
 ==============================
 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
-Joniur Front End Developer👨🏻‍💻
+Front End Developer👨🏻‍💻
 ---------------------------------
-I am interested in the world of web and technology and digital marketing and now I am a Joniur Front End Developer, I am learning every day and every moment and this path continues ...
+I am interested in the world of web and technology and digital marketing and now I am Front End Developer, I am learning every day and every moment and this path continues ...
 
 💻: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
